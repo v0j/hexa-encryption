@@ -1,4 +1,3 @@
-```
 <?php
 /**
  *  encryption of hexadecimal values
@@ -75,4 +74,3 @@ function fc84($hexadecimal, $salt = ''){
     }
     return $output;
 }
-```
